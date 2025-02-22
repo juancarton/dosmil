@@ -1,6 +1,6 @@
 streamlit
 pandas
-folium
+streamlit_folium
 seaborn
 matplotlib
 plotly
